@@ -116,7 +116,7 @@
       const button = event.target;
       
       if (!button.classList.contains('active')) {
-        alert("🎂 Make a wish! Your future is incredibly bright ✨");
+        alert("Aik praaya Tohfa...Meri Pyari Pariii K liye...");
         button.classList.add('active');
         button.textContent = "🎉 Surprise";
         launchFireworks();
